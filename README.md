@@ -9,5 +9,5 @@ Canvas(MEME-Maker) using HTML, CSS, JavaScript
 
 - beginners-03
 Front-end Required Browser 101
->target coordinates <br>
->target rabbits <br>
+   >target coordinates <br>
+   >target rabbits <br>
