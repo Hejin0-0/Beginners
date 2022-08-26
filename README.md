@@ -10,5 +10,5 @@ Canvas(MEME-Maker) using HTML, CSS, JavaScript
 - beginners-03
 Front-end Required Browser 101
    >coordinates <br>
-   >ToDo List
+   >ToDo List <br>
    >event
