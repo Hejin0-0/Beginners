@@ -2,6 +2,7 @@ const items = document.querySelector(".items");
 const input = document.querySelector(".footer_input");
 const addBtn = document.querySelector(".footer_btn");
 
+// 사용자가 입력한 텍스를 받아옴
 function onAdd() {
   const text = input.value;
   if (text === "") {
@@ -9,9 +10,13 @@ function onAdd() {
     return;
   }
 
+  // 새로운 아이템을 만듬 ( 텍스트 + 삭제 버튼 )
   const item = createItem(text);
+  // items 컨테이너 안에 새로 만든 아이템을 추가
   items.appendChild(item);
+  // 새로 추가된 아이템으로 스크롤링
   item.scrollIntoView({ block: "center" });
+  // 인풋을 초기화
   input.value = "";
   input.focus();
 }
