@@ -12,4 +12,7 @@ Front-end Required Browser 101
    >coordinates <br>
    >ToDo List <br>
    >event <br>
-   >Wack a Carrot <br>
+   >Whac-A-Carrot <br>
+
+- beginners-04
+Scroll Interaction
