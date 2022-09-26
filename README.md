@@ -15,4 +15,7 @@ Front-end Required Browser 101
    >Whac-A-Carrot <br>
 
 - beginners-04
-Scroll Interaction
+Scroll Interaction <br>
+
+- beginners-05
+Web crawling with Python
